@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302739979611",
+    "project_id": "tugas10-fd9b4",
+    "storage_bucket": "tugas10-fd9b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302739979611:android:1946110956d43175c1ee7e",
+        "android_client_info": {
+          "package_name": "com.hendri.tugas100"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ikFkemXoR6xsfcttB2a7MlxgLWRE-nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
